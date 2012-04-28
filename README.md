@@ -1,6 +1,10 @@
 # Backbone boilerplate with Sass
 * 04/23/2012 - [William Kasel] (https://github.com/wkasel) - Added Sass support, cleaned up extra pages, and stripped out unnecessary html template pages, and js files.
 
+This entire project is based off the [http://backboneboilerplate](http://backboneboilerplate) project. I included Sass over Less even though there is a node setup simply because of preference. If you have any questions, I can be reached at wkasel -at- Gizmo -dot- com
+
+--original readme--
+
 # Backbone boilerplate
 [http://backboneboilerplate.com](http://backboneboilerplate.com) is a community driven effort to help developers learn and rapidly deploy single page web applications.
 
